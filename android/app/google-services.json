@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614854090163",
+    "firebase_url": "https://signup-ui.firebaseio.com",
+    "project_id": "signup-ui",
+    "storage_bucket": "signup-ui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614854090163:android:afc2546514dcc229e67fc6",
+        "android_client_info": {
+          "package_name": "mommy.ra.signinpageui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614854090163-6j4l1s2pionen6faimajkpkr92fk88di.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mommy.ra.signinpageui",
+            "certificate_hash": "f991d49ed2214b8327a171f360df48dbbca0a141"
+          }
+        },
+        {
+          "client_id": "614854090163-h2d4kon908hblgfd1447mj289tq42bfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXhH4EhbuQEFu-JDVspKUUt2vwvDS_0sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614854090163-h2d4kon908hblgfd1447mj289tq42bfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
